@@ -1,7 +1,6 @@
 
-SRCS =		ft_pourcent.c \
-		ft_putchar_fd.c \
-		ft_putstr_fd.c \
+SRCS =		ft_putstr_fd.c \
+		ft_pourcent.c \
 		put_0x.c \
 		put_nbr_dec_d_i.c \
 		put_nbr_hex_low.c \
